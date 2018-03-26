@@ -137,6 +137,24 @@
             "version-min": 13,
             "version-max": 13,
             "recommended": 1
+        },
+        "http://www.mcbbs.net/thread-533943-1-1.html":{
+            "title":"懒癌卫士PCB",
+            "tags":["过时","其他生成器/资源","OOC生成"],
+            "category":"生成器/资源",
+            "version-min":9,
+            "version-max":12,
+            "last-update":"2017-06-17",
+            "recommended":"0"}
+        },
+        "http://www.mcbbs.net/thread-770198-1-1.html":{
+            "title":"新版本execute嵌套的改变",
+            "tags":["预览版","基础","NBT"],
+            "category":"命令/格式教程",
+            "version-min":13,
+            "version-max":13,
+            "last-update":"2017-11-28",
+            "recommended":"2"}
         }
     }
 }
